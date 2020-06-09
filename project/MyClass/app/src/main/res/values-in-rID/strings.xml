@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="app_name">Perpustakaan Elektronik</string>
+    <string name="no">ISBN</string>
+    <string name="nama">Judul </string>
+    <string name="ttl">Tahun Terbit</string>
+    <string name="sex">Penerbit</string>
+    <string name="address">Pengarang</string>
+    <string name="save">Simpan</string>
+    <string name="update">Ubah</string>
+    <string name="informasi">Ini adalah aplikasi yang menunjukkan buku-buku di Perpustakaan Polines</string>
+    <string name="owner">Dibuat Oleh : EKA FEBRIYANTI X RESTU GALIH K.</string>
+    <string name="version">Versi : 1.1</string>
+    <string name="email">Email : elibrarypolines@gmail.com</string>
+    <string name="jeneng">Dibuat Oleh : </string>
+    <string name="isi_jeneng">EKA FEBRIYANTI X RESTU GALIH K</string>
+    <string name="NIM">3.34.18.0.09   ||   3.34.18.0.19</string>
+    <string name="profile">Profil</string>
+    <string name="pilihan">Pilihan</string>
+    <string name="view_data">Lihat Data</string>
+    <string name="update_data">Perbarui Data</string>
+    <string name="delete_data">Hapus Data</string>
+    <string name="ss">MyLibrary</string>
+    <string name="lihat_data">Daftar Buku</string>
+    <string name="masukkan_data">Input Buku</string>
+    <string name="about">Tentang</string>
+    <string name="tab_text1">Pembuat 1</string>
+    <string name="tab_text2">Pembuat 2</string>
+    <string name="n">Nama</string>
+    <string name="name1">: Restu Galih K</string>
+    <string name="name2">: Eka Febriyanti</string>
+    <string name="k">Kelas</string>
+    <string name="kelas">: IK-2A</string>
+    <string name="ni">NIM</string>
+    <string name="nim1">: 3.34.18.0.19</string>
+    <string name="nim2">: 3.34.18.0.09</string>
+    <string name="e">Email</string>
+    <string name="email1">: restugalih93@gmail.com</string>
+    <string name="email2">: ekafebriyanti@gmail.com</string>
+</resources>

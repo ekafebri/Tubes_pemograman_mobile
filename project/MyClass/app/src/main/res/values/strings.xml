@@ -1,0 +1,42 @@
+<resources>
+    <string name="change_language">Change Language</string>
+    <string name="app_name">E-Library</string>
+    <string name="no">ISBN</string>
+    <string name="nama">Title </string>
+    <string name="ttl">Year of Publication</string>
+    <string name="sex">Publisher</string>
+    <string name="address">author</string>
+    <string name="save">save</string>
+    <string name="update">Update</string>
+    <string name="informasi">This applications show the list of book in Polines Library</string>
+    <string name="owner">Created By : Febri x Restu</string>
+    <string name="pilihan">Choose</string>
+    <string name="view_data">View Data</string>
+    <string name="update_data">Update Data</string>
+    <string name="delete_data">Delete Data</string>
+    <string name="version">Version : 1.1</string>
+    <string name="email">Email : elibrarypolines@gmail.com</string>
+    <string name="jeneng">Created by : </string>
+    <string name="isi_jeneng">EKA FEBRIYANTI X RESTU GALIH K</string>
+    <string name="NIM">3.34.18.0.09   ||   3.34.18.0.19</string>
+    <string name="profile">Profile</string>
+    <string name="ss">MyLibrary</string>
+    <string name="lihat_data">List of Books</string>
+    <string name="masukkan_data">Input Data</string>
+    <string name="about">About</string>
+    <string name="n">Name</string>
+    <string name="name1">: Restu Galih K</string>
+    <string name="name2">: Eka Febriyanti</string>
+    <string name="k">Class</string>
+    <string name="kelas">: IK-2A</string>
+    <string name="ni">NIM</string>
+    <string name="nim1">: 3.34.18.0.19</string>
+    <string name="nim2">: 3.34.18.0.09</string>
+    <string name="e">Email</string>
+    <string name="email1">: restugalih93@gmail.com</string>
+    <string name="email2">: ekafebriyanti@gmail.com</string>
+
+    <string name="tab_text1">CREATOR 1</string>
+    <string name="tab_text2">CREATOR 2</string>
+
+</resources>
